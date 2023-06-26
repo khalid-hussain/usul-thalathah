@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 **[الأَصْلُ الثَّالِثُ]{custom-style="Arabic" dir="rtl" lang="ar"}
 **
+=======
+**[الأَصْلُ الثَّالِثُ]{custom-style="Arabic" dir="rtl" lang="ar"}**
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 **The Third Principle**
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
@@ -8,6 +12,11 @@
 وَسَلَّمَ
 :::
 
+<<<<<<< HEAD
+=======
+[مَعْرِفَةُ نَبِيِّكُمْ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ
+وَسَلَّمَ]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 Knowing your Prophet, Muhammad may Allāh\'s peace and blessings be upon
 him:
@@ -16,8 +25,12 @@ him:
 وَهُوَ مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ عَبْدِ الْمُطَّلِبِ بْنِ
 هَاشِمٍ، وَهَاشِمٌ مِنْ قُرَيْشٍ، وَقُرَيْشٌ مِنَ الْعَرَبِ، وَالْعَرَبُ
 مِنْ ذُرِّيَّةِ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ الْخَلِيلِ عَلَيْهِ
+<<<<<<< HEAD
 وَعَلَى نَبِيِّنَا أَفْضَلُ الصَّلاةِ وَالسَّلامِ،
 :::
+=======
+وَعَلَى نَبِيِّنَا أَفْضَلُ الصَّلاةِ وَالسَّلامِ،]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 
 He is Muhammad \BPBUH, son of 'Abdullaah, son of 'Abdul-Muttalib son of
@@ -29,27 +42,41 @@ on our Prophet.
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 وَلَهُ مِنَ الِعُمُرِ ثَلاثٌ وَسِتُّونَ سَنَةً، مِنْهَا أَرْبَعُونَ
 قَبْلَ النُّبُوَّةِ، وَثَلاثٌ وَعِشْرُون َنَبِيًا
+<<<<<<< HEAD
 وَرَسُولًا.
 :::
 
+=======
+وَرَسُولًا.]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 He lived for sixty-three years, forty of which was prior to his prophet
 hood and twenty-three of which he was as a prophet, and messenger.
 
+<<<<<<< HEAD
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 نُبِّئَ بـ(اقْرَأ)، وَأُرْسِلَ بـ(الْمُدَّثِّر)، وَبَلَدُهُ
 مَكَّةُ.
 :::
+=======
+[نُبِّئَ بـ(اقْرَأ)، وَأُرْسِلَ بـ(الْمُدَّثِّر)، وَبَلَدُهُ
+مَكَّةُ.]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 
 He \BPBUH became a prophet with Iqra and a messenger with Al-Muddathir. His
 homeland was Makkah.
 
+<<<<<<< HEAD
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 بَعَثَهُ اللهُ بِالنِّذَارَةِ عَنِ الشِّرْكِ، وَيَدْعُو إِلَى
 التَّوْحِيدِ،
 :::
 
+=======
+[بَعَثَهُ اللهُ بِالنِّذَارَةِ عَنِ الشِّرْكِ، وَيَدْعُو إِلَى
+التَّوْحِيدِ،]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 Allāh sent him to warn against Shirk and to call to Tawheed.
 
@@ -57,9 +84,13 @@ Allāh sent him to warn against Shirk and to call to Tawheed.
 وَالدَّلِيلُ قَوْلُهُ تَعَالَى: ﴿يَا أَيُّهَا الْمُدَّثِّرُ ۞ قُمْ
 فَأَنذِرْ ۞ وَرَبَّكَ فَكَبِّرْ ۞ وَثِيَابَكَ فَطَهِّرْ ۞ وَالرُّجْزَ
 فَاهْجُرْ ۞ وَلاَ تَمْنُن تَسْتَكْثِرُ ۞ وَلِرَبِّكَ فَاصْبِرْ﴾
+<<<<<<< HEAD
 [\المدثر: 1ـ7\].
 :::
 
+=======
+\[المدثر: 1ـ7\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 The proof is His The Most High, statement (which means): \"O you wrapped
 in garments. Rise and warn! Magnify your Lord. Purify your garments.
@@ -71,10 +102,16 @@ Lord." [\Surah Al-Muddathir: 1-7\]
 وَمَعْنَى: ﴿قُمْ فَأَنذِرْ﴾: يُنْذِرُ عَنِ الشِّرْكِ، وَيَدْعُو إِلَى
 التَّوْحِيدِ. :::
 
+<<<<<<< HEAD
+=======
+[وَمَعْنَى: ﴿قُمْ فَأَنذِرْ﴾: يُنْذِرُ عَنِ الشِّرْكِ، وَيَدْعُو إِلَى
+التَّوْحِيدِ. ]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 The meaning of: \"Rise and warn\" is that he warns against Shirk and
 calls to Tawheed.
 
+<<<<<<< HEAD
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 ﴿وَرَبَّكَ فَكَبِّرْ﴾: أَيْ: عَظِّمْهُ بِالتَّوْحِيدِ. 
 :::
@@ -87,15 +124,27 @@ calls to Tawheed.
 الشِّرْكِ. 
 :::
 
+=======
+[﴿وَرَبَّكَ فَكَبِّرْ﴾: أَيْ: عَظِّمْهُ بِالتَّوْحِيدِ. ]{custom-style="Arabic" dir="rtl" lang="ar"}
+
+\"And magnify your Lord\" means glorify Him by way of Tawheed.
+
+[﴿وَثِيَابَكَ فَطَهِّرْ﴾: أَيْ: طَهِّرْ أَعْمَالَكَ عَنِ
+الشِّرْكِ. ]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 *"*And purify your garments\" means cleanse your actions from Shirk.
 
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 ﴿وَالرُّجْزَ فَاهْجُرْ﴾: الرُّجْزَ: الأَصْنَامُ، وَهَجْرُهَا: تَرْكُهَا
 وَأَهلِهَا، وَالْبَرَاءَةُ مِنْهَا وَأَهْلِهَا، وَعَدَاوَتُهَا
+<<<<<<< HEAD
 وَأَهْلِهَا وَفِرَاقُهَا وَأَهْلِهَا
 :::
 
+=======
+وَأَهْلِهَا وَفِرَاقُهَا وَأَهْلِهَا]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 \"And abandon ar-rujz\" "Rujz" means statues, and "Abandon" means to
 leave it and its people, free yourself from it and its people, having
@@ -108,22 +157,34 @@ its people.
 أَخَذَ عَلَى هَذَا عَشْرَ سِنِينَ يَدْعُو إِلَى التَّوْحِيدِ، وَبَعْدَ
 الْعَشْرِ عُرِجَ بِهِ إِلَى السَّمَاءِ، وَفُرِضَتْ عَلَيْهِ الصَّلَواتُ
 الْخَمْسُ، وَصَلَّى فِي مَكَّةَ ثَلاثَ سِنِينَ، وَبَعْدَهَا أُمِرَ
+<<<<<<< HEAD
 بالْهِجْرَةِ إِلَى الْمَدِينَةِ،
 :::
 
+=======
+بالْهِجْرَةِ إِلَى الْمَدِينَةِ،]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 He remained doing this for ten years, calling to Tawheed. And after ten
 years, he was raised up to the heaven, where the five daily prayers were
 made obligatory on him. So he prayed in Makkah for three years and
 thereafter, he was ordered to make the Hijrah (migration) to
+<<<<<<< HEAD
 Madeenah.
+=======
+Madeenah[.]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 وَالْهِجْرَةُ فَرِيضَةٌ عَلَى هَذِهِ الأُمَّةِ مِنْ بَلَدِ الشِّرْكِ
 إِلَى بلد الإِسْلامِ، وَهِيَ بَاقِيَةٌ إِلَى أَنْ تَقُومَ
+<<<<<<< HEAD
 السَّاعَةُ،
 
 :::
+=======
+السَّاعَةُ،]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 Hijrah (migration) is obligatory upon this ummah from the land of Shirk
 to the land of Islaam, and it remains until the Hour is established.
@@ -138,8 +199,12 @@ to the land of Islaam, and it remains until the Hour is established.
 جَهَنَّمُ وَسَآءتْ مَصِيرًا ۞ إِلاَّ الْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ
 وَالنِّسَآء وَالْوِلْدَانِ لاَ يَسْتَطِيعُونَ حِيلَةً وَلاَ يَهْتَدُونَ
 سَبِيلًا ۞ فَأُوْلَئِكَ عَسَى اللّهُ أَن يَعْفُوَ عَنْهُمْ وَكَانَ
+<<<<<<< HEAD
 اللّهُ عَفُوًّا غَفُورًا﴾ \النساء:97-99\].
 :::
+=======
+اللّهُ عَفُوًّا غَفُورًا﴾ \[النساء:97-99\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 The proof for this is His The Most High, statement (which means):
 \"Verily, those whom the angels take their lives while they were
@@ -152,11 +217,16 @@ children -- who cannot devise a plan, and are not able to find their
 way. These, Allāh may pardon them, and Allāh is Ever Oft-Pardoning,
 Most Forgiving\". \Surah An-Nisaa: 97-99\]
 
+<<<<<<< HEAD
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 
 وَقَوْلُهُ تَعَالَى: ﴿يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي
 وَاسِعَةٌ فَإِيَّايَ فَاعْبُدُونِ﴾ \العنكبوت: 56\].
 :::
+=======
+[وَقَوْلُهُ تَعَالَى: ﴿يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي
+وَاسِعَةٌ فَإِيَّايَ فَاعْبُدُونِ﴾ \[العنكبوت: 56\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 And His The Most High, statement (which means): \"O My servants who
 believe! Verily, My earth is spacious so worship Me alone\". \Surah
@@ -166,8 +236,12 @@ Al-'Ankaboot: 56\]
 
 قَالَ الْبَغَوِيُّ رَحِمَهُ اللهُ: «سَبَبُ نُزُولِ هَذِهِ الآيَةُ فِي
 المُسْلِمِينَ الَّذِينَ بِمَكَّةَ لَمْ يُهَاجِرُوا، نَادَاهُمُ اللهُ
+<<<<<<< HEAD
 بِاسْمِ الإِيمَانِ».
 :::
+=======
+بِاسْمِ الإِيمَانِ».]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 Al-Baghawee, may Allāh have mercy on him, said: \"The reason for the
 revelation of this ayah was the Muslims who were in Makkah and did not
@@ -179,6 +253,7 @@ migrate. Allāh addressed them as believers\".
 وَالدَّلِيلُ عَلَى الْهِجْرَةِ مِنَ السُّنَّةِ: قَوْلُهُ صَلَّى اللهُ
 عَلَيْهِ وَسَلَّمَ: {لا تَنْقَطِعُ الْهِجْرَةُ حَتَّى تَنْقَطِعَ
 التَّوْبَةُ، وَلا تَنْقَطِعُ التَّوْبَةُ حَتَّى تَطْلُعَ الشَّمْسُ مِنْ
+<<<<<<< HEAD
 مَغْرِبِهَا}.
 :::
 
@@ -186,6 +261,12 @@ migrate. Allāh addressed them as believers\".
 The proof for Hijrah from the Sunnah is his (صَلَّى اللّٰهُ عَلَيْهِ
 وَسَلَّم):::
  statement: \"Hijrah will not cease until
+=======
+مَغْرِبِهَا}.]{custom-style="Arabic" dir="rtl" lang="ar"}
+
+The proof for Hijrah from the Sunnah is his [(صَلَّى اللّٰهُ عَلَيْهِ
+وَسَلَّم)]{custom-style="Arabic" dir="rtl" lang="ar"} statement: \"Hijrah will not cease until
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 repentance ceases. And repentance will not cease (to be accepted) until
 the sun rises from where it sets (i.e. the west)\"
 
@@ -194,6 +275,7 @@ the sun rises from where it sets (i.e. the west)\"
 فَلَمَّا اسْتَقَرَّ بالْمَدِينَةِ أُمِرَ فِيهَا بِبَقِيَّةِ شَرَائِعِ
 الإِسْلامِ، مِثلِ: الزَّكَاةِ، وَالصَّوْمِ، وَالْحَجِّ، وَالأَذَانِ،
 وَالْجِهَادِ، وَالأَمْرِ بِالْمَعْرُوفِ وَالنَّهْيِ عَنِ الْمُنْكَرِ،
+<<<<<<< HEAD
 وَغَيْرِ ذَلِكَ مِنْ شَرَائِعِ الإِسْلامِ،
 :::
 
@@ -201,10 +283,17 @@ the sun rises from where it sets (i.e. the west)\"
 So when he settled in Madeenah, he (صَلَّى اللّٰهُ عَلَيْهِ
 وَسَلَّم)
  was commanded in it with the remaining
+=======
+وَغَيْرِ ذَلِكَ مِنْ شَرَائِعِ الإِسْلامِ،]{custom-style="Arabic" dir="rtl" lang="ar"}
+
+So when he settled in Madeenah, he [(صَلَّى اللّٰهُ عَلَيْهِ
+وَسَلَّم)]{custom-style="Arabic" dir="rtl" lang="ar"} was commanded in it with the remaining
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 legislations of Islaam, such as Zakaat, Fasting, Hajj, Adhaan, Jihaad,
 commanding good and forbidding evil, as well as the other legislations
 of Islaam.
 
+<<<<<<< HEAD
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 
 أَخَذَ عَلَى هَذَا عَشْرَ سِنِينَ، وَبَعْدَهَا تُوُفِّيَ صَلواتُ اللهِ
@@ -218,20 +307,36 @@ on him, passed away. His Religion remained.
 وَهَذَا دِينُهُ، لا خَيْرَ إِلا دَلَّ الأُمَّةَ عَلَيْهِ، وَلا شَرَّ
 إِلا حَذَّرَهَا مِنْهُ،
 :::
+=======
+[أَخَذَ عَلَى هَذَا عَشْرَ سِنِينَ، وَبَعْدَهَا تُوُفِّيَ صَلواتُ اللهِ
+وَسَلامُهُ عَلَيْهِ وَدِينُهُ بَاقٍ.]{custom-style="Arabic" dir="rtl" lang="ar"}
+
+He did this for ten years, and then he, peace and blessings of Allāh be
+on him, passed away. His Religion remained[.]{custom-style="Arabic" dir="rtl" lang="ar"}
+
+[وَهَذَا دِينُهُ، لا خَيْرَ إِلا دَلَّ الأُمَّةَ عَلَيْهِ، وَلا شَرَّ
+إِلا حَذَّرَهَا مِنْهُ،]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 This is his Religion -- there is no good except that he directed his
 nation to it, and there is no evil except that he warned them against
 it.
 
+<<<<<<< HEAD
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 وَالْخَيْرُ الَّذِي دَلَّهَا عَلَيْهِ التَّوْحِيدُ، وَجَمِيعُ مَا
 يُحِبُّهُ اللهُ وَيَرْضَاهُ،
 :::
 
+=======
+[وَالْخَيْرُ الَّذِي دَلَّهَا عَلَيْهِ التَّوْحِيدُ، وَجَمِيعُ مَا
+يُحِبُّهُ اللهُ وَيَرْضَاهُ،]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 The good that he directed his nation to is Tawheed and everything that
 Allāh loves and is pleased with.
 
+<<<<<<< HEAD
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 وَالشَّرُ الَّذِي حَذَّرَهَا مِنْهُ الشِّرْكُ، وَجَمِيعُ مَا يَكْرَهُ
 اللهُ وَيَأْبَاهُ.
@@ -241,13 +346,24 @@ Allāh loves and is pleased with.
 
 And the evil that he warned his nation against is Shirk and everything
 that Allāh hates and rejects.
+=======
+[وَالشَّرُ الَّذِي حَذَّرَهَا مِنْهُ الشِّرْكُ، وَجَمِيعُ مَا يَكْرَهُ
+اللهُ وَيَأْبَاهُ.]{custom-style="Arabic" dir="rtl" lang="ar"}
+
+And the evil that he warned his nation against is Shirk and everything
+that Allāh hates and rejects[.]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 بَعَثَهُ اللهُ إِلَى النَّاسِ كَافَّةً، وَافْتَرَضَ طَاعَتَهُ عَلَى
 جَمِيعِ الثَّقَلَيْنِ الْجِنِّ وَالإِنْسِ؛ وَالدَّلِيلُ قَوْلُهُ
 تَعَالَى: ﴿قُلْ يَا أَيُّهَا النَّاسُ إِنِّي رَسُولُ اللّهِ إِلَيْكُمْ
+<<<<<<< HEAD
 جَمِيعًا﴾ \الأعراف: 158\].
 :::
+=======
+جَمِيعًا﴾ \[الأعراف: 158\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 Allāh sent him to all of mankind, and made obeying him an obligation
 upon everyone from the two species Jinn and mankind. The proof is His
@@ -258,10 +374,15 @@ Verily, I am the Messenger of Allāh to you all\". \Surah Al-A'raaf:
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 وَأَكْمَلَ اللهُ بِهِ الدِّينَ؛ وَالدَّلِيلُ قَوْلُهُ
 تَعَالَى: ﴿الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+<<<<<<< HEAD
 نِعْمَتِي وَرَضِيتُ لَكُمُ الإِسْلاَمَ دِينًا﴾ \المائدة:
 3\].
 :::
 
+=======
+نِعْمَتِي وَرَضِيتُ لَكُمُ الإِسْلاَمَ دِينًا﴾ \[المائدة:
+3\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 And Allāh completed the Religion through him. The proof is His The Most
 High, statement (which means): \"Today I have completed your Religion
@@ -271,6 +392,7 @@ as a Religion for you\". \Surah Al-Maa'idah: 3\]
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 وَالدَّلِيلُ عَلَى مَوْتِهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَوْلُهُ
 تَعَالَى: ﴿إِنَّكَ مَيِّتٌ وَإِنَّهُم مَّيِّتُونَ ۞ ثُمَّ إِنَّكُمْ
+<<<<<<< HEAD
 يَوْمَ الْقِيَامَةِ عِندَ رَبِّكُمْ تَخْتَصِمُونَ﴾ \الزمر: 30،
 31\].
 :::
@@ -278,6 +400,12 @@ as a Religion for you\". \Surah Al-Maa'idah: 3\]
 
 The proof for his (صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّم)
  death
+=======
+يَوْمَ الْقِيَامَةِ عِندَ رَبِّكُمْ تَخْتَصِمُونَ﴾ \[الزمر: 30،
+31\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+
+The proof for his [(صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّم)]{custom-style="Arabic" dir="rtl" lang="ar"} death
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 is His The Most High, statement (which means): \"Verily, you will die
 and verily, they will die. Then on the Day of Resurrection, you will be
 disputing before your Lord\". \Surah Az-Zumar: 30-31\]
@@ -287,9 +415,14 @@ disputing before your Lord\". \Surah Az-Zumar: 30-31\]
 تَعَالَى: ﴿مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا
 نُخْرِجُكُمْ تَارَةً أُخْرَى﴾ \طه: 55\]. وقَوْلُهُ
 تَعَالَى: ﴿وَاللَّهُ أَنبَتَكُم مِّنَ الأَرْضِ نَبَاتًا ۞ ثُمَّ
+<<<<<<< HEAD
 يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا﴾ \نوح: 17،
 18\].
 :::
+=======
+يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا﴾ \[نوح: 17،
+18\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 And when people die, they will be resurrected. The proof is His The Most
 High, statement (which means): \"From it \the earth\] We created you,
@@ -303,9 +436,13 @@ Nooh: 17-18\]
 وَبَعْدَ الْبَعْثِ مُحَاسَبُونَ وَمَجْزِيُّونَ بِأَعْمَالِهِمْ،
 وَالدَّلِيلُ قَوْلُهُ تَعَالَى: ﴿وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا
 فِي الأَرْضِ لِيَجْزِيَ الَّذِينَ أَسَاؤُوا بِمَا عَمِلُوا وَيَجْزِيَ
+<<<<<<< HEAD
 الَّذِينَ أَحْسَنُوا بِالْحُسْنَى﴾ \النجم: 31\].
 
 :::
+=======
+الَّذِينَ أَحْسَنُوا بِالْحُسْنَى﴾ \[النجم: 31\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 After resurrection, they will be judged and recompensed for their
 actions. The proof is His The Most High, statement (which means): \"And
@@ -318,9 +455,13 @@ An-Najm: 31\]
 وَمَنْ كَذَّبَ بِالْبَعْثِ كَفَرَ، وَالدَّلِيلُ قَوْلُهُ
 تَعَالَى: ﴿زَعَمَ الَّذِينَ كَفَرُوا أَن لَّن يُبْعَثُوا قُلْ بَلَى
 وَرَبِّي لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ وَذَلِكَ
+<<<<<<< HEAD
 عَلَى اللَّهِ يَسِيرٌ﴾ \التغابن: 7\].
 
 :::
+=======
+عَلَى اللَّهِ يَسِيرٌ﴾ \[التغابن: 7\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 Whoever rejects the resurrection, has disbelieved. The proof is His The
 Most High, statement (which means): \"The disbelievers claim they will
@@ -333,8 +474,12 @@ for Allāh\". \Surah At-Taghaabun: 7\]
 وَأَرْسَلَ اللهُ جَمِيعَ الرُّسُلِ مُبَشِّرِينَ وَمُنْذِرِينَ؛
 وَالدَّلِيلُ قَوْلُهُ تَعَالَى: ﴿رُّسُلًا مُّبَشِّرِينَ وَمُنذِرِينَ
 لِئَلاَّ يَكُونَ لِلنَّاسِ عَلَى اللّهِ حُجَّةٌ بَعْدَ الرُّسُلِ﴾
+<<<<<<< HEAD
 \النساء: 165\].
 :::
+=======
+\[النساء: 165\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 Allāh sent all of the messengers, as givers of glad tidings and
 warners. The proof is His The Most High, statement (which means):
@@ -347,8 +492,12 @@ no argument against Allāh after the Messengers\". \Surah An-Nisaa:
 وَالسَّلَامَ وَهُوَ خَاتَمُ النَّبِيِّينَ؛ لَا نَبِيَّ بَعْدَهُ
 وَالدَّلِيلُ قَوْلُهُ تَعَالَى: ﴿مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن
 رِجَالِكُمْ وَلَــٰكِن رَّسُولَ اللهِ وَخَاتَمَ النَّبِيِّينَ﴾
+<<<<<<< HEAD
 \الأحزاب: 40\]
 :::
+=======
+\[الأحزاب: 40\]]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 The first of them is Nooh and the last of them is Muhammad, may peace
 and blessings be upon them. He was the Seal of the Prophets, there will
@@ -360,8 +509,12 @@ is the Messenger of Allah and the seal of the Prophets\".
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 وَالدَّلِيلُ عَلَى أَنَّ نُوحًا أَوَّلُ الرُّسُلِ قَوْلُهُ
 تَعَالَى: ﴿إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَى نُوحٍ
+<<<<<<< HEAD
 وَالنَّبِيِّينَ مِن بَعْدِهِ﴾ \النساء: 165\].
 :::
+=======
+وَالنَّبِيِّينَ مِن بَعْدِهِ﴾ \[النساء: 165\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 The proof that Nooh was the first of the messengers is His The Most
 High, statement (which means): \"Verily, We sent the revelation to you,
@@ -373,8 +526,12 @@ just as We sent the revelation to Nooh and the prophets after him\".
 مُحَمَّدٍ عَلَيْهِمَا الصَّلَاةُ وَالسَّلَامَ يَأْمُرُهُمْ بِعِبَادَةِ
 اللهِ وَحْدَهُ، وَيَنْهَاهُمْ عَنْ عِبَادَةِ الطَّاغُوتِ؛ وَالدَّلِيلُ
 قَوْلُهُ تَعَالَى: ﴿وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ
+<<<<<<< HEAD
 اعْبُدُواْ اللّهَ وَاجْتَنِبُوا الطَّاغُوتَ﴾ \النحل: 36\].
 :::
+=======
+اعْبُدُواْ اللّهَ وَاجْتَنِبُوا الطَّاغُوتَ﴾ \[النحل: 36\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 And Allāh has sent a messenger to every nation, from Nooh up until
 Muhammad, who would command them to worship Allāh alone and forbid them
@@ -383,11 +540,16 @@ from worshipping the Taaghoot. The proof is His The Most High, statement
 \saying\]: 'Worship Allāh and avoid the Taaghoot\". \Surah An-Nahl:
 36\]
 
+<<<<<<< HEAD
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 وَافْتَرَضَ اللهُ عَلَى جَمِيعِ الْعِبَادِ الْكُفْرَ بِالطَّاغُوتِ
 وَالإِيمَانَ بِاللهِ.
 :::
 
+=======
+[وَافْتَرَضَ اللهُ عَلَى جَمِيعِ الْعِبَادِ الْكُفْرَ بِالطَّاغُوتِ
+وَالإِيمَانَ بِاللهِ.]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 Allāh obligated all of His servants to disbelieve in the Taaghoot and
 believe in Allāh.
@@ -395,9 +557,13 @@ believe in Allāh.
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 قَالَ ابْنُ الْقَيِّمِ ـ رَحِمَهُ اللهُ تَعَالَى: «وَمَعْنَى
 الطَّاغُوتِ: مَا تَجَاوَزَ بِهِ الْعَبْدُ حَدَّهُ مِنْ مَعْبُودٍ أَوْ
+<<<<<<< HEAD
 مَتْبُوعٍ أَوْ مُطَاعٍ».
 :::
 
+=======
+مَتْبُوعٍ أَوْ مُطَاعٍ».]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 Ibn Al-Qayyim, may Allāh have mercy on him, said: \"The meaning of
 Taaghoot is transgressing one\'s limits in worshipping, following or
@@ -407,8 +573,12 @@ obedience\".
 وَالطَّوَاغِيتُ كَثِيرُونَ وَرُؤُوسُهُمْ خَمْسَةٌ: إِبْلِيسُ لَعَنَهُ
 اللهُ، وَمَنْ عُبِدَ وَهُوَ رَاضٍ، وَمَنْ ادَّعَى شَيْئًا مِنْ عِلْمِ
 الْغَيْبِ، وَمَنْ دَعَا النَّاسَ إِلَى عِبَادَةِ نَفْسِهِ، وَمَنْ حَكَمَ
+<<<<<<< HEAD
 بِغَيْرِ مَا أَنْزَلَ اللهُ؛
 :::
+=======
+بِغَيْرِ مَا أَنْزَلَ اللهُ؛]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 
 The Tawaagheet \pl. of Taaghoot\] are many, and their heads are five:
@@ -421,9 +591,13 @@ revealed.
 وَالدَّلِيلُ قَوْلُهُ تَعَالَى: ﴿لاَ إِكْرَاهَ فِي الدِّينِ قَد
 تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ فَمَنْ يَكْفُرْ بِالطَّاغُوتِ
 وَيُؤْمِن بِاللّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىَ لاَ
+<<<<<<< HEAD
 انفِصَامَ لَهَا وَاللّهُ سَمِيعٌ عَلِيمٌ﴾ \البقرة: 256\].
 :::
 
+=======
+انفِصَامَ لَهَا وَاللّهُ سَمِيعٌ عَلِيمٌ﴾ \[البقرة: 256\].]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 The proof is His, The Most High, statement (which means): \"There is no
 compulsion in the Religion. Verily, guidance has become distinct from
@@ -432,6 +606,7 @@ Allāh, then he has taken hold of the firmest handhold that will never
 break. And Allāh is the All-Hearer, the All-Knower\". \Surah
 Al-Baqarah: 256\]
 
+<<<<<<< HEAD
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 وَهَذَا هُوَ مَعْنَى لَا إِلَـٰـهَ إِلَّا اللهُ،
 :::
@@ -444,10 +619,19 @@ This is the meaning of Laa Ilaaha IllaaAllāh.
 وَذِرْوَةُ سَنَامِهِ الْجِهَادُ فِي سَبِيلِ اللهِ}.
 :::
 
+=======
+[وَهَذَا هُوَ مَعْنَى لَا إِلَـٰـهَ إِلَّا اللهُ،]{custom-style="Arabic" dir="rtl" lang="ar"}
+
+This is the meaning of Laa Ilaaha IllaaAllāh.
+
+[وَفِي الْحَدِيثِ: {رَأْسُ الأَمْرِ الإِسْلامِ، وَعَمُودُهُ الصَّلاةُ،
+وَذِرْوَةُ سَنَامِهِ الْجِهَادُ فِي سَبِيلِ اللهِ}.]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 And in the hadeeth: \"The head of the affair is Islaam and its pillar is
 the Prayer. And its pinnacle is Jihaad in the way of Allāh\".
 
+<<<<<<< HEAD
 :::{custom-style="Arabic" dir="rtl" lang="ar"}
 وَاللهُ أَعْلَمُ.
 :::
@@ -457,6 +641,12 @@ the Prayer. And its pinnacle is Jihaad in the way of Allāh\".
 وَسَلَّمَ.
 :::
 
+=======
+[وَاللهُ أَعْلَمُ.]{custom-style="Arabic" dir="rtl" lang="ar"}
+
+[وَصَلَّى اللهُ عَلَى مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ
+وَسَلَّمَ.]{custom-style="Arabic" dir="rtl" lang="ar"}
+>>>>>>> f28f411964e129a6107d20ccccc6bf755ab1ba85
 
 And Allāh knows best.
 

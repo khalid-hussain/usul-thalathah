@@ -5,7 +5,7 @@
 
 The three principles and its proofs
 
-By Ash-Shaikh Muhammad Ibn Abdil Wahhaab (may Allāh have mercy upon
+By Ash-Shaykh Muhammad Ibn Abdil Wahhaab (may Allāh have mercy upon
 him)
 
 [ترجمه محمد بن عمران حسين]{dir="rtl"}
