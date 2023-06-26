@@ -1,37 +1,37 @@
 
 
-**[الأَصْلُ الثَّانِي]{custom-style="Arabic" dir="rt1" lang="ar"}**
+**[الأَصْلُ الثَّانِي]{custom-style="Arabic" dir="rtl" lang="ar"}**
 
 **The Second Fundamental Principle:**
 
-[مَعْرِفَةُ دِينِ الإِسْلامِ بِالأَدِلَّةِ]{custom-style="Arabic" dir="rt1" lang="ar"}
+[مَعْرِفَةُ دِينِ الإِسْلامِ بِالأَدِلَّةِ]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 Knowing the Religion of Islaam, based on evidences.
 
 [وَهُوَ: الاسْتِسْلامُ للهِ بِالتَّوْحِيدِ، وَالانْقِيَادُ لَهُ
 بِالطَّاعَةِ، وَالْبَرَاءَةُ والخلوص مِنَ الشِّرْكِ
-وَأَهْلِهِ،]{custom-style="Arabic" dir="rt1" lang="ar"}
+وَأَهْلِهِ،]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 It is submitting to Allāh with Tawheed, surrendering to Him with
 obedience, and absolving and freeing oneself from Shirk and its people.
 
 [وَهُوَ ثَلاثُ مَرَاتِبَ: الإسْلامُ، وَالإِيمَانُ،
-وَالإِحْسَانُ.]{custom-style="Arabic" dir="rt1" lang="ar"}
+وَالإِحْسَانُ.]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 It has three levels: Islaam, Eemaan, and Ihsaan
 
-[وَكُلُّ مَرْتَبَةٍ لَهَا أَرْكَانٌ.]{custom-style="Arabic" dir="rt1" lang="ar"}
+[وَكُلُّ مَرْتَبَةٍ لَهَا أَرْكَانٌ.]{custom-style="Arabic" dir="rtl" lang="ar"}
 
-Each level has pillars[.]{custom-style="Arabic" dir="rt1" lang="ar"}
+Each level has pillars[.]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 [\
-]{custom-style="Arabic" dir="rt1" lang="ar"}
+]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 [فَأَرْكَانُ الإِسْلامِ خَمْسَةٌ وَالدّليلُ من السُّنةِ حدَيثُ ابنِ
 عُمرَ رضِيَ اللهُ عَنْهما قَالَ: قَالَ رَسولُ اللهِ صَلّى اللهُ عَليهِ
 وَسلَّم {بُنيَ الِإسْلامُ عَلى خَمسٍ شَهَادَةِ أَلَّا إله إِلا اللهُ
 وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، وَإِقَامِ الصَّلاةِ، وَإِيتَاءِ
-الزَّكَاةِ، وَصَوْمِ رَمَضَانَ، وَحَجِّ البَيْتِ}.]{custom-style="Arabic" dir="rt1" lang="ar"}
+الزَّكَاةِ، وَصَوْمِ رَمَضَانَ، وَحَجِّ البَيْتِ}.]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 The pillars of Islaam are five: and the proof from the Sunnah is the
 Hadeeth of Ibn \'Umar, may Allāh be pleased with them both, who said:
@@ -44,7 +44,7 @@ Performing Hajj to the House\".
 [وَالدَّلِيلُ قَوْلُه تَعَالَىٰ: ﴿إِنَّ الدِّينَ عِنْدَ اللهِ
 الإِسْلَــٰمُ﴾ \[آل عمران: 19\] وَقَوْلُهُ تَعَالَىٰ: ﴿وَمَن يَبْتَغِ
 غَيْرَ الإِسْلَــٰمِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِي الآخِرَةِ
-مِنَ الخَــٰسِرِينَ﴾]{custom-style="Arabic" dir="rt1" lang="ar"}
+مِنَ الخَــٰسِرِينَ﴾]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 The proof is His The Most High, statement (which means): \"verily the
 way of life with Allāh is Islaam\" and His The Most High, statement
@@ -55,7 +55,7 @@ hereafter\".
 [وَدَلِيلُ الشَّهَادَةِ قَوْلُهُ تَعَالَى: ﴿شَهِدَ اللّهُ أَنَّهُ لَا
 إلَـــٰهَ إِلَّا هُوَ وَالْمَلاَئِكَةُ وَأُوْلُوا الْعِلْمِ قَآئِمًا
 بِالْقِسْطِ لَا إِلَــٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ﴾ \[آل عمران،
-18\].]{custom-style="Arabic" dir="rt1" lang="ar"}
+18\].]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 The proof for the testimony is His The Most High, statement (which
 means): \"Allāh bears witness that there is no deity that has the right
@@ -67,7 +67,7 @@ worshipped but Him -- the All-Mighty, the All-Wise\". \[Surah Aali
 [وَمَعْنَاهَا: لا مَعْبُودَ بِحَقٍّ إلا اللهُ، (لَا إِلهَ) نَافِيًا
 جَمِيعَ مَا يُعْبَدُ مِنْ دُونِ اللهِ، (إِلا اللهُ) مُثْبِتًا
 الْعِبَادَةَ للهِ وَحْدَهُ لا شَرِيكَ لَهُ فِي عِبَادَتِهِ، كَمَا
-أَنَّهُ لَا شَرِيكَ لَهُ فِي مُلْكِهِ.]{custom-style="Arabic" dir="rt1" lang="ar"}
+أَنَّهُ لَا شَرِيكَ لَهُ فِي مُلْكِهِ.]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 Its means there is no one that has the right to be worshipped except
 Allāh, alone. Laa Ilaaha negates everything that is worshipped besides
@@ -76,7 +76,7 @@ any partner in His worship, just as He has no partner in His Dominion.
 
 [وَتَفْسِيرُهَا: الَّذِي يُوَضِّحُهَا قَوْلُهُ تَعَالَى: ﴿وَإِذْ قَالَ
 إِبْرَاهِيمُ لأَبِيهِ وَقَوْمِهِ إِنَّنِي بَرَآء مِّمَّا تَعْبُدُونَ ۞
-إِلاَّ الَّذِي فَطَرَنِي﴾ الآية \[الزخرف: 26 ـ 28\].]{custom-style="Arabic" dir="rt1" lang="ar"}
+إِلاَّ الَّذِي فَطَرَنِي﴾ الآية \[الزخرف: 26 ـ 28\].]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 What explains this, making it clear is His The Most High, statement
 (which means): \"And remember when Ibraaheem said to his father and his
@@ -87,7 +87,7 @@ who created Me\". \[Surah Az-Zukhruf: 26-28\]
 كَلَمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ
 وَلاَ نُشْرِكَ بِهِ شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا
 مِّن دُونِ اللّهِ فَإِن تَوَلَّوْاْ فَقُولُواْ اشْهَدُواْ بِأَنَّا
-مُسْلِمُونَ﴾ \[آل عمران: 64\].]{custom-style="Arabic" dir="rt1" lang="ar"}
+مُسْلِمُونَ﴾ \[آل عمران: 64\].]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 And His The Most High, statement (which means): \"Say: 'O People of the
 book! Come to a word that is agreed upon between us and you -- that we
@@ -99,7 +99,7 @@ Then if they turn away, say: 'Bear witness that we are Muslims\".
 [وَدِليلُ شَهَادَةِ أَنَّ مُحَمَّدًا رَسُولُ اللهِ: قَوْلُهُ تَعَالَى:
 ﴿لَقَدْ جَآءكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا
 عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ﴾ \[التوبة:
-128\].]{custom-style="Arabic" dir="rt1" lang="ar"}
+128\].]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 The proof for testifying that Muhammad is the Messenger of Allāh is His
 The Most High, statement (which means): \"Verily a Messenger from
@@ -109,17 +109,17 @@ merciful towards the believers\". \[Surah At-Tawbah: 128\]
 
 [وَمَعْنَى شَهَادَة أَنَّ مُحَمَّدًا رَسُولُ اللهِ: طَاعَتُهُ فِيمَا
 أَمَرَ، وَتَصْدِيقُهُ فِيمَا أَخْبَرَ، واجْتِنَابُ مَا عَنْهُ نَهَى
-وَزَجَرَ وأَن لا يُعْبَدَ اللهُ إِلا بِمَا شَرَعَ.]{custom-style="Arabic" dir="rt1" lang="ar"}
+وَزَجَرَ وأَن لا يُعْبَدَ اللهُ إِلا بِمَا شَرَعَ.]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 The meaning of testifying that Muhammad is the Messenger of Allāh is:
 Obeying him in what he commanded, believing him in what he informed us,
 avoiding what he forbade us, and not worshipping Allāh except by what
-he [ (ﷺ)]{custom-style="Arabic" dir="rt1" lang="ar"}prescribed.
+he [ (ﷺ)]{custom-style="Arabic" dir="rtl" lang="ar"}prescribed.
 
 [وَدَلِيلُ الصَّلاةِ، وَالزَّكَاةِ، وَتَفْسِيرُ التَّوْحِيدِ قَوْلُهُ
 تَعَالَى: ﴿وَمَا أُمِرُوا إِلاَّ لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ
 الدِّينَ حُنَفَآءَ وَيُقِيمُوا الصَّلاةَ وَيُؤْتُوا الزَّكَاةَ وَذَلِكَ
-دِينُ الْقَيِّمَةِ﴾ \[البينة: 5\].]{custom-style="Arabic" dir="rt1" lang="ar"}
+دِينُ الْقَيِّمَةِ﴾ \[البينة: 5\].]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 The proof for Prayer, Zakaah and the explanation of Tawheed is His The
 Most High, statement (which means): \"And they were not commanded except
@@ -129,7 +129,7 @@ upright Religion." \[Surah Al-Bayyinah: 5\]
 
 [ودَلِيلُ الصِّيَامِ: قَوْلُهُ تَعَالَى: ﴿يَا أَيُّهَا الَّذِينَ
 آمَنُواْ كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن
-قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ﴾ \[البقرة: 183\].]{custom-style="Arabic" dir="rt1" lang="ar"}
+قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ﴾ \[البقرة: 183\].]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 The proof for Fasting is His The Most High, statement (which means): \"O
 you who believe! Fasting is prescribed upon you as it was prescribed
@@ -138,7 +138,7 @@ Al-Baqarah: 183\]
 
 [ودَلِيلُ الْحَجِّ: قَوْلُهُ تَعَالَى: ﴿وَلِلّهِ عَلَى النَّاسِ حِجُّ
 الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن كَفَرَ فَإِنَّ الله
-غَنِيٌّ عَنِ الْعَالَمِينَ﴾ \[آل عمران: 97\].]{custom-style="Arabic" dir="rt1" lang="ar"}
+غَنِيٌّ عَنِ الْعَالَمِينَ﴾ \[آل عمران: 97\].]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 The proof for Hajj is His The Most High, statement (which means): \"And
 the Hajj to the House (Ka'bah) is a duty for Allāh upon mankind, those
@@ -146,18 +146,18 @@ who are able to do it. And whoever disbelieves, then indeed Allāh is
 independent of the creation\". \[Surah Aali 'Imraan: 97\]
 
 **[\
-]{custom-style="Arabic" dir="rt1" lang="ar"}**
+]{custom-style="Arabic" dir="rtl" lang="ar"}**
 
 
 
 
-**[الْمَرْتَبَةُ الثَّانِيَةُ: الإِيمَانُ]{custom-style="Arabic" dir="rt1" lang="ar"}**
+**[الْمَرْتَبَةُ الثَّانِيَةُ: الإِيمَانُ]{custom-style="Arabic" dir="rtl" lang="ar"}**
 
 **The second level is Eemaan**
 
 [وَهُوَ بِضْعٌ وَسَبْعُونَ شُعْبَةً، أَعْلاهَا قَوْلُ لا إله إِلا اللهُ،
 وَأَدْنَاهَا إِمَاطَةُ الأَذَى عَنِ الطَّرِيقِ، وَالْحَيَاءُ شُعْبَةٌ
-مِنْ الإِيمَانِ.]{custom-style="Arabic" dir="rt1" lang="ar"}
+مِنْ الإِيمَانِ.]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 It consists of seventy-odd branches. The highest of which is saying Laa
 Ilaaha IllaaAllāh and the lowest of which is removing harmful objects
@@ -165,7 +165,7 @@ from the pathways. And Hayaa (modesty) is a branch of Eemaan.
 
 [وَأَرْكَانُهُ سِتَّةٌ: أَنْ تُؤْمِنَ بِاللهِ، وَمَلائِكَتِهِ،
 وَكُتُبِهِ، وَرُسُلِهِ، وَالْيَوْمِ الآخِرِ، وَبِالْقَدَرِ خَيْرِهِ
-وَشَرِّهِ، كله من الله.]{custom-style="Arabic" dir="rt1" lang="ar"}
+وَشَرِّهِ، كله من الله.]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 Its pillars are six: that you believe in Allāh, His angels, His books,
 His Messengers, the Last Day, and that you believe in Al-Qadar
@@ -176,7 +176,7 @@ Allāh.
 تَعَالَى: ﴿لَيْسَ الْبِرَّ أَن تُوَلُّواْ وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ
 وَالْمَغْرِبِ وَلَكِنَّ الْبِرَّ مَنْ آمَنَ بِاللّهِ وَالْيَوْمِ الآخِرِ
 وَالْمَلآئِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ﴾ \[البقرة:
-177\].]{custom-style="Arabic" dir="rt1" lang="ar"}
+177\].]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 The proof for these six pillars is His The Most High, statement (which
 means): \"Righteousness is not that you turn your faces towards the east
@@ -185,21 +185,21 @@ Last Day, the Angels, the Books and the Prophets\". \[Surah Al-Baqarah:
 177\]
 
 [ودليل القدر: قَوْلُهُ تَعَالَى: ﴿إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ
-بِقَدَرٍ﴾ \[القمر: 49\].]{custom-style="Arabic" dir="rt1" lang="ar"}
+بِقَدَرٍ﴾ \[القمر: 49\].]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 And the proof for Al-Qadar (Pre-Decree) is His The Most High, statement
 (which means): \"Verily, We have created all things with Qadar
 (pre-decree)\". \[Surah Al-Qamar: 49\]
 
 **[\
-]{custom-style="Arabic" dir="rt1" lang="ar"}**
+]{custom-style="Arabic" dir="rtl" lang="ar"}**
 
-**[الْمَرْتَبَةُ الثَّالِثَةُ: الإِحْسَانُ]{custom-style="Arabic" dir="rt1" lang="ar"}**
+**[الْمَرْتَبَةُ الثَّالِثَةُ: الإِحْسَانُ]{custom-style="Arabic" dir="rtl" lang="ar"}**
 
-**The third level is Ihsaan[:]{custom-style="Arabic" dir="rt1" lang="ar"}**
+**The third level is Ihsaan[:]{custom-style="Arabic" dir="rtl" lang="ar"}**
 
 [رُكْنٌ وَاحِدٌ، وهو: أَنْ تَعْبُدَ اللهَ كَأَنَّكَ تَرَاهُ، فَإِن لَمْ
-تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ.]{custom-style="Arabic" dir="rt1" lang="ar"}
+تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ.]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 It is one thing, it is that you worship Allāh as if you are seeing Him,
 but even though you do not see Him, He indeed sees you.
@@ -208,7 +208,7 @@ but even though you do not see Him, He indeed sees you.
 وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الوُثْقَىٰ﴾ \[لقمان:
 22\] وقوله تعالى: ﴿إِنَّ اللّهَ مَعَ الَّذِينَ اتَّقَواْ وَّالَّذِينَ
 هُم مُّحْسِنُونَ﴾ \[النحل: 128\]. وقوله تعالى: ﴿وَمَن يَتَوَكَّلْ عَلَى
-اللَّهِ فَهُوَ حَسْبُهُ﴾ \[الطلاق: 3\].]{custom-style="Arabic" dir="rt1" lang="ar"}
+اللَّهِ فَهُوَ حَسْبُهُ﴾ \[الطلاق: 3\].]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 The proof is His The Most High, statement (which means): \"And whoever
 submits his face to Allāh while he is a Muhsin \[doer of good\] - then
@@ -224,7 +224,7 @@ puts his trust in Allāh then He will be sufficient for him\".
 السَّمِيعُ الْعَلِيمُ﴾ \[الشعراء: 217 ـ 220\]. وقَوْلُهُ
 تَعَالَى: ﴿وَمَا تَكُونُ فِي شَأْنٍ وَمَا تَتْلُو مِنْهُ مِن قُرْآنٍ
 وَلاَ تَعْمَلُونَ مِنْ عَمَلٍ إِلاَّ كُنَّا عَلَيْكُمْ شُهُودًا إِذْ
-تُفِيضُونَ فِيهِ﴾ \[يونس: 61\].]{custom-style="Arabic" dir="rt1" lang="ar"}
+تُفِيضُونَ فِيهِ﴾ \[يونس: 61\].]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 And His The Most High, statement (which means): \"And put your trust in
 the All-Mighty, the Most Merciful, who sees you when you stand up, and
@@ -236,16 +236,16 @@ except that We are witnesses to it, whilst you are doing it\". \[Surah
 Yoonus: 61\].
 
 [وَالدَّلِيلُ مِنَ السُّنَّةِ: حَدِيثُ جَبْرَائِيلَ عليه السلام
-الْمَشْهُورُ: عَنْ عُمَرَ رَضِيَ اللهُ عَنْهُ. قَالَ:]{custom-style="Arabic" dir="rt1" lang="ar"}
+الْمَشْهُورُ: عَنْ عُمَرَ رَضِيَ اللهُ عَنْهُ. قَالَ:]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 The proof from the Sunnah is the famous hadeeth of Jibreel, which is
-reported from 'Umar [ (رضي الله عنه)]{custom-style="Arabic" dir="rt1" lang="ar"} who said:
+reported from 'Umar [ (رضي الله عنه)]{custom-style="Arabic" dir="rtl" lang="ar"} who said:
 
 [{بَيْنَمَا نَحْنُ جُلُوسٌ عِنْدَ رَسُولِ اللهِ ﷺ إِذْ طَلَعَ عَلَيْنَا
 رَجُلٌ، شَدِيدُ بَيَاضِ الثِّيَابِ، شَدِيدُ سَوَادِ الشَّعْرِ، لا يُرَى
 عَلَيْهِ أَثَرُ السَّفَرِ، وَلا يَعْرِفُهُ مِنَّا أَحَدٌ، فَجَلَسَ إِلَى
 النَّبِيِّ ـ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ـ فَأَسْنَدَ رُكْبَتَيْهِ
-إِلَى رُكْبَتَيْهِ، وَوَضَعَ كَفَّيْهِ عَلَى فَخِذَيْهِ،]{custom-style="Arabic" dir="rt1" lang="ar"}
+إِلَى رُكْبَتَيْهِ، وَوَضَعَ كَفَّيْهِ عَلَى فَخِذَيْهِ،]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 \"Once we were sitting with the Prophet \BPBUH when a man
 appeared to us with extremely white garments and extremely black hair.
@@ -258,7 +258,7 @@ to his \BPBUH knees and placing his palms upon his
 تَشْهَدَ أَلَّا إله إِلا اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ،
 وَتُقِيمَ الصَّلاةَ، وَتُؤْتِيَ الزَّكَاةَ، وَتَصُومَ رَمَضَانَ،
 وَتَحُجَّ الْبَيْتَ إِنْ اسْتَطَعْتَ إِلَيْهِ سَبِيلًا). فقَالَ:
-صَدَقْتَ. فَعَجِبْنَا لَهُ يَسْأَلُهُ وَيُصَدِّقُهُ.]{custom-style="Arabic" dir="rt1" lang="ar"}
+صَدَقْتَ. فَعَجِبْنَا لَهُ يَسْأَلُهُ وَيُصَدِّقُهُ.]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 And he said: \'O Muhammad, inform me about Islaam.\' So he
 \BPBUH said: 'It is that you testify that there is no deity
@@ -272,7 +272,7 @@ were amazed that he had asked him and then told him that he was truthful
 وَمَلائِكَتِهِ، وَكُتُبِهِ، وَرُسُلِهِ، وَالْيَوْمِ الآخِرِ، وَتُؤْمِنَ
 بِالْقَدَرِ خَيْرِهِ وَشَرِّهِ). قَالَ: صَدَقْتَ. قَالَ: أَخْبِرْنِي
 عَنِ الإِحْسَانِ. قَالَ: (أَنْ تَعْبُدَ اللهَ كَأَنَّكَ تَرَاهُ، فَإِنْ
-لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ).]{custom-style="Arabic" dir="rt1" lang="ar"}
+لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ).]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 He said: 'inform me about Eemaan.' So he\BPBUH said: 'It is
 that you believe in Allāh, His angels, His books, His messengers, the
@@ -288,7 +288,7 @@ but even though you don't see Him, He indeed sees you.\'
 قَالَ: فَمَضَى، فَلَبِثْنَا مَلِيَّا، فَقَالَ ﷺ: (يَا عُمَرُ أَتَدْرِي
 مَنِ السَّائِلُ؟). قُلْنَا: اللهُ وَرَسُولُهُ أَعْلَمُ،
 قَالَ: (هَذَا جِبْرِيلُ أَتَاكُمْ يُعَلِّمُكُمْ أَمْرَ
-دِينِكُم)}.]{custom-style="Arabic" dir="rt1" lang="ar"}
+دِينِكُم)}.]{custom-style="Arabic" dir="rtl" lang="ar"}
 
 He said: 'inform me about the Hour.' He \BPBUH said: 'The one
 who is being asked is not more knowledgeable of it than the one who is
