@@ -1,4 +1,4 @@
-The Shaikh \BH_HIM said:
+The Shaykh \BH_HIM said:
 :::{custom-style="Basmalah" dir="rtl" lang="ar"}
 بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
 :::
