@@ -201,13 +201,12 @@ humbled."]{custom-style="in_text_Quran_Translation"} \[Surah Ghaafir: 60\]
 
 :::{custom-style="Matan_translation"}
 The proof for Khawf (Fear) is His The Most High, statement (which
-means): \"So do not fear them, but fear Me if you are believers."
-\[Surah Aali 'Imraan: 175\]
+means): ["So do not fear them, but fear Me if you are believers."]{custom-style="in_text_Quran_Translation"} \[Surah Aali 'Imraan: 175\]
 
 :::{custom-style="Matan" dir="rtl" lang="ar"}
-وَدَلِيلُ الرَّجَاءِ: قَوْلُهُ تَعَالَى: ﴿فَمَن كَانَ يَرْجُو لِقَاءَ
+وَدَلِيلُ الرَّجَاءِ: قَوْلُهُ تَعَالَى: [﴿فَمَن كَانَ يَرْجُو لِقَاءَ
 رَبِّهِ فَلْيَعْمَلْ عَمَلاً صَالِحًا وَلاَ يُشْرِكْ بِعِبَادَةِ
-رَبِّهِ أَحَدًا﴾ \[الكهف: 110\].
+رَبِّهِ أَحَدًا﴾]{custom-style="in_text_Quran"} \[الكهف: 110\].
 :::
 
 :::{custom-style="Matan_translation"}
@@ -218,108 +217,120 @@ Lord." ]{custom-style="in_text_Quran_Translation"}\[Surah Al-Kahf: 110\]
 :::
 
 :::{custom-style="Matan" dir="rtl" lang="ar"}
-وَدَلِيلُ التَّوَكُلِ: قَوْلُهُ تَعَالَى: ﴿وَعَلَى اللّهِ
-فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ﴾ \[المائدة: 23\]. وقوله: ﴿وَمَن
-يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ﴾ \[الطلاق: 3\].
+وَدَلِيلُ التَّوَكُلِ: قَوْلُهُ تَعَالَى: [﴿وَعَلَى اللّهِ
+فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ﴾]{custom-style="in_text_Quran"} \[المائدة: 23\]. وقوله: [﴿وَمَن
+يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ﴾ ]{custom-style="in_text_Quran"} \[الطلاق: 3\].
 :::
 
+:::{custom-style="Matan_translation"}
 The proof for Tawakkul (Reliance) is His The Most High, statement (which
-means): \"And rely upon Allāh alone if you are believers." \[Surah
-AlMaa'idah: 23\] And His The Most High, statement (which means): \"And
-whoever relies upon Allāh, then He is sufficient for him." \[Surah
+means): ["And rely upon Allāh alone if you are believers."]{custom-style="in_text_Quran_Translation"} \[Surah
+AlMaa'idah: 23\] And His The Most High, statement (which means): ["And
+whoever relies upon Allāh, then He is sufficient for him."]{custom-style="in_text_Quran_Translation"} \[Surah
 At-Talaaq: 3\]
+:::
 
 :::{custom-style="Matan" dir="rtl" lang="ar"}
 وَدَلِيلُ الرَّغْبَةِ، وَالرَّهْبَةِ، وَالْخُشُوعِ: قَوْلُهُ
-تَعَالَى: ﴿إِنَّهُمْ كَانُوا يُسَارِعُونَ فِي الْخَيْرَاتِ
-وَيَدْعُونَنَا رَغَبًا وَرَهَبًا وَكَانُوا لَنَا خَاشِعِينَ﴾ \[الأنبياء:
+تَعَالَى: [﴿إِنَّهُمْ كَانُوا يُسَارِعُونَ فِي الْخَيْرَاتِ
+وَيَدْعُونَنَا رَغَبًا وَرَهَبًا وَكَانُوا لَنَا خَاشِعِينَ﴾ ]{custom-style="in_text_Quran"} \[الأنبياء:
 90\].
 :::
 
+:::{custom-style="Matan_translation"}
 The proof for Raghbah (seeking the pleasure of Allāh with love and
 hope), Rahbah (fear that is accompanied by action), and Khushoo'
 (submissiveness accompanied by fear) is His The Most High, statement
-(which means): \"Verily, they used to rush to do good deeds, and they
+(which means): ["Verily, they used to rush to do good deeds, and they
 would call on Us with Raghbah (seeking the pleasure of Allāh with love
 and hope) and Rahbah (fear that is accompanied by action) and they were
-submissive and fearful of Us\". \[Surah Al-Anbiyaa: 90\]
+submissive and fearful of Us."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Anbiyaa: 90\]
+:::
 
 
 :::{custom-style="Matan" dir="rtl" lang="ar"}
-وَدَلِيلُ الْخَشْيَةِ: قَوْلُهُ تَعَالَى: ﴿فَلاَ تَخْشَوْهُمْ
-وَاخْشَوْنِ﴾ الآية \[البقرة: 150\].
+وَدَلِيلُ الْخَشْيَةِ: قَوْلُهُ تَعَالَى: [﴿فَلاَ تَخْشَوْهُمْ
+وَاخْشَوْنِ﴾]{custom-style="in_text_Quran"} الآية \[البقرة: 150\].
 :::
 
+:::{custom-style="Matan_translation"}
 The proof for Khashyah (fear that is coupled with knowledge) is His The
-Most High, statement (which means): \"So do not fear them, but fear
-Me\". \[Surah Al-Baqarah: 150\]
-
-
-:::{custom-style="Matan" dir="rtl" lang="ar"}
-وَدَلِيلُ الإِنَابَةِ: قَوْلُهُ تَعَالَى: ﴿وَأَنِيبُوا إِلَى رَبِّكُمْ
-وَأَسْلِمُوا لَهُ﴾ الآية \[الزمر: 54\].
+Most High, statement (which means): ["So do not fear them, but fear
+Me."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Baqarah: 150\]
 :::
 
+:::{custom-style="Matan" dir="rtl" lang="ar"}
+وَدَلِيلُ الإِنَابَةِ: قَوْلُهُ تَعَالَى: [﴿وَأَنِيبُوا إِلَى رَبِّكُمْ
+وَأَسْلِمُوا لَهُ﴾]{custom-style="in_text_Quran"} الآية \[الزمر: 54\].
+:::
+
+:::{custom-style="Matan_translation"}
 The proof for Inaabah (returning to Allāh) is His The Most High,
-statement (which means): \"And return to your Lord and submit to Him\".
+statement (which means): ["And return to your Lord and submit to Him."]{custom-style="in_text_Quran_Translation"}
 \[Surah Az-Zumar: 54\]
-
-
-:::{custom-style="Matan" dir="rtl" lang="ar"}
-وَدَلِيلُ الاسْتِعَانَةِ: قَوْلُهُ تَعَالَى: ﴿إِيَّاكَ نَعْبُدُ
-وإِيَّاكَ نَسْتَعِينُ﴾ \[الفاتحة: 5\]. وَفِي الْحَدِيثِ: {وإِذَا
-اسْتَعَنْتَ فَاسْتَعِنْ بِاللهِ}.
 :::
 
-The proof for Isti'aanah (seeking help) is His The Most High, statement
-(which means): \"You alone do we worship and Your help alone do we
-seek\". \[Surah Al-Faatihah: 4\] And in the hadeeth: \"When you seek
-assistance then seek assistance from Allāh\".
+:::{custom-style="Matan" dir="rtl" lang="ar"}
+وَدَلِيلُ الاسْتِعَانَةِ: قَوْلُهُ تَعَالَى: [﴿إِيَّاكَ نَعْبُدُ
+وإِيَّاكَ نَسْتَعِينُ﴾]{custom-style="in_text_Quran"} \[الفاتحة: 5\]. وَفِي الْحَدِيثِ: [وإِذَا
+اسْتَعَنْتَ فَاسْتَعِنْ بِاللهِ.]{custom-style="in_text_Hadith"}
+:::
 
+:::{custom-style="Matan_translation"}
+The proof for Isti'aanah (seeking help) is His The Most High, statement
+(which means): ["You alone do we worship and Your help alone do we
+seek."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Faatihah: 4\] And in the hadeeth: ["When you seek
+assistance then seek assistance from Allāh."]{custom-style="in_text_Hadith_Translation"}
+:::
 
 :::{custom-style="Matan" dir="rtl" lang="ar"}
-وَدَلِيلُ الاسْتِعَاذَةِ: قَوْلُهُ تَعَالَى: ﴿قُلْ أَعُوذُ بِرَبِّ
-الْفَلَقِ﴾ \[الفلق: 1\]. و﴿قُلْ أَعُوذُ بِرَبِّ النَّاسِ﴾ \[الناس:
+وَدَلِيلُ الاسْتِعَاذَةِ: قَوْلُهُ تَعَالَى: [﴿قُلْ أَعُوذُ بِرَبِّ
+الْفَلَقِ﴾ ]{custom-style="in_text_Quran"} \[الفلق: 1\]. [ و﴿قُلْ أَعُوذُ بِرَبِّ النَّاسِ﴾ ]{custom-style="in_text_Quran"} \[الناس:
 1\].
 :::
 
+:::{custom-style="Matan_translation"}
 The proof for Isti'aazah (seeking refuge) is His The Most High,
-statement (which means): \"Say: I seek refuge in the Lord of the
-Daybreak\". \[Surah Al-Falaq: 1\] And \"Say: I seek refuge in the Lord
-of Mankind\". \[Surah An-Naas: 1\]
-
+statement (which means): ["Say: I seek refuge in the Lord of the
+Daybreak."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Falaq: 1\] And ["Say: I seek refuge in the Lord
+of Mankind."]{custom-style="in_text_Quran_Translation"} \[Surah An-Naas: 1\]
+:::
 
 :::{custom-style="Matan" dir="rtl" lang="ar"}
 وَدَلِيلُ الاسْتِغَاثَةِ: قَوْلُهُ تَعَالَى: ﴿إِذْ تَسْتَغِيثُونَ
 رَبَّكُمْ فَاسْتَجَابَ لَكُمْ\...﴾ الآية\[الأنفال: 9\].
 :::
 
+:::{custom-style="Matan_translation"}
 The proof for Istighaathah (seeking help when in distress) is His The
-Most High, statement (which means): \"And remember when you sought help
-from your Lord and He responded to you...\" \[Surah Al-Anfaal: 9\]
-
+Most High, statement (which means): ["And remember when you sought help
+from your Lord and He responded to you..."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Anfaal: 9\]
+:::
 
 :::{custom-style="Matan" dir="rtl" lang="ar"}
-وَدَلِيلُ الذَّبْحِ: قَوْلُهُ تَعَالَى: ﴿قُلْ إِنَّ صَلاَتِي وَنُسُكِي
+وَدَلِيلُ الذَّبْحِ: قَوْلُهُ تَعَالَى: [﴿قُلْ إِنَّ صَلاَتِي وَنُسُكِي
 وَمَحْيَايَ وَمَمَاتِي لِلّهِ رَبِّ الْعَالَمِينَ ۞ لاَ شَرِيكَ لَه
-وَبِذَلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ﴾ \[الأنعام:
-162-163\]. وَمِنَ السُنَّةِ: {لعَنَ اللهُ مَنْ ذَبَحَ لِغَيْرِ
-اللهِ}.
+وَبِذَلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ﴾ ]{custom-style="in_text_Quran"} \[الأنعام:
+162-163\]. وَمِنَ السُنَّةِ:  [لعَنَ اللهُ مَنْ ذَبَحَ لِغَيْرِ
+اللهِ.]{custom-style="in_text_Hadith"}
 :::
 
+:::{custom-style="Matan_translation"}
 The proof for Zabh (offering sacrifices) is His The Most High, statement
-(which means): \"Say: Verily my prayer, my sacrifices, my life and my
+(which means): ["Say: Verily my prayer, my sacrifices, my life and my
 death are for Allāh, Lord of the Worlds. He has no partner. And with
-this I was commanded, and I am the first of the Muslims\". \[Surah
-Al-An'aam: 162-163\] And from the Sunnah: \"May Allāh curse the one who
-offers a sacrifice to other than Allāh\".
-
+this I was commanded, and I am the first of the Muslims."]{custom-style="in_text_Quran_Translation"} \[Surah
+Al-An'aam: 162-163\] And from the Sunnah: ["May Allāh curse the one who
+offers a sacrifice to other than Allāh."]{custom-style="in_text_Hadith_Translation"}
+:::
 
 :::{custom-style="Matan" dir="rtl" lang="ar"}
-ودليل النذر قوله تعالى: ﴿يُوْفُوْنَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا
-كَانَ شَرُّهُ مُسْتَطِيرًا﴾ \[الإنسان: 7\]
+ودليل النذر قوله تعالى: [﴿يُوْفُوْنَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا
+كَانَ شَرُّهُ مُسْتَطِيرًا﴾ ]{custom-style="in_text_Quran"} \[الإنسان: 7\]
 :::
 
+:::{custom-style="Matan_translation"}
 The proof for Nazr (taking vows) is His The Most High, statement (which
-means): \"They fulfill their vows and they fear a Day whose evil will be
-widespread\". \[Surah Al-Insaan: 7\]
+means): ["They fulfill their vows and they fear a Day whose evil will be
+widespread."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Insaan: 7\]
+:::
