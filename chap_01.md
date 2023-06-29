@@ -1,5 +1,5 @@
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 # The Shaikh \BH_HIM said: 
 :::
 
@@ -8,59 +8,59 @@
 بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
 :::
 
-:::{custom-style="Basmalah_translation"}
+:::{custom-style="Basmalah Trans."}
 In the Name of Allāh, the Entirely Merciful, the Especially Merciful.
 :::
 
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 اعْلمْ رَحِمَكَ اللهُ أَنَّهُ يَجِبُ عَلَيْنَا تَعَلُّمُ أَرْبَع
 مَسَائِلَ:
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 Know, may Allāh have mercy on you, that we are obligated to learn four
 matters:
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 الأُولَى: الْعِلْمُ: وَهُوَ مَعْرِفَةُ اللهِ، وَمَعْرِفَةُ نَبِيِّهِ
 \[ﷺ\]، وَمَعْرِفَةُ دِينِ الإِسْلامِ بالأَدِلَّةِ.
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The first is Knowledge, which is knowing Allāh, knowing His Prophet \BPBUH and knowing the Religion of Islaam, with the
 evidences.
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 الثَّانِيَةُ: الْعَمَلُ بِهِ
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The second is acting according to it.
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 الثَّالِثَةُ: الدَّعْوَةُ إِلَيْهِ.
 :::
 
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The third is calling others to it.
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 الرَّابِعَةُ: الصَّبْرُ عَلَى الأَذَى فِيهِ.
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The fourth is being Patient with the harm that befalls you because of
 it.
 :::
 
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 
 وَالدَّلِيلُ قَوْلُهُ تَعَالَى: [﴿بِسْمِ اللهِ الرَّحْمَــٰنِ الرَّحِيمِ
 ۞ وَالْعَصْرِ ۞ إِنَّ الإِنسَـٰنَ لَفِي خُسْرٍ ۞ إِلاَّ الَّذِينَ
@@ -69,7 +69,7 @@ it.
 
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof is His statement \[which means\]: ["In the Name of Allāh, the
 Entirely Merciful, the Especially Merciful. By Al-\'Asr! Verily mankind
 is in loss, except for those who believe, perform righteous deeds,
@@ -78,20 +78,20 @@ patience."]{custom-style="in_text_Quran_Translation"} \[Surah Al-'Asr 1-3\]
 :::
 
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 قَالَ الشَّافِعيُّ رَحِمَهُ اللهُ تَعَالَى: «هَذِهِ السُّورَةَ لَوْ مَا
 أَنْزَلَ اللهُ حُجَّةً عَلَى خَلْقِهِ إِلا هِيَ
 لَكَفَتْهُمْ».
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 Ash-Shaafi'ee, may Allāh have mercy on him, said: "Had Allāh not sent
 down an argument to His creation other than this surah, it would have
 been sufficient for them\".
 :::
 
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 
 وَقَالَ البُخَارِيُّ رَحِمَهُ اللهُ تَعَالَى: «بَابٌ: العِلْمُ قَبْلَ
 القَوْلِ وَالْعَمَلِ؛ وَالدَّلِيلُ قَوْلُهُ تَعَالَى: [ ﴿فَاعْلَمْ أَنَّهُ
@@ -100,7 +100,7 @@ been sufficient for them\".
 :::
 
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 And Al-Bukhaaree, may Allāh have mercy on him, said: "Chapter:
 Knowledge comes before speech and action, the proof is His statement
 \[which means\]: [\'So know that there is no deity worthy of worship

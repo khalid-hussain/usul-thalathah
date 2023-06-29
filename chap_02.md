@@ -1,15 +1,15 @@
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 اعْلَمْ رَحِمَكَ اللهُ أَنَّه يَجِبُ عَلَى كُلِّ مُسْلِمٍ وَمُسْلِمَةٍ،
 تَعَلُّمُ ثَلاثِ هَذِهِ المَسَائِل والْعَمَلُ بِهِنَّ
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 Know, may Allāh have mercy upon you, that it is obligatory upon every
 Muslim male and female to learn and act upon these three matters:
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 الأُولَى: أَنَّ اللهَ خَلَقَنَا، وَرَزَقَنَا، وَلَمْ يَتْرُكْنَا
 هَمَلًا، بَلْ أَرْسَلَ إِلَيْنَا رَسُولًا، فَمَنْ أَطَاعَهُ دَخَلَ
 الجَنَّةَ، وَمَنْ عَصَاهُ دَخَلَ النَّارَ، وَالدَّلِيلُ قَوْلُهُ
@@ -19,7 +19,7 @@ Muslim male and female to learn and act upon these three matters:
 16.
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The first is that Allāh created us, provides for us, and did not leave
 us neglected. Rather, He sent a Messenger to us, so whoever obeys him
 will enter Jannah, and whoever disobeys him will enter the fire.
@@ -31,14 +31,14 @@ him with a severe seizure\".]{custom-style="in_text_Quran_Translation"} \[Surah 
 
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 الثَّانِيَةُ: أَنَّ الله لا يَرْضَى أَنْ يُشْرَكَ مَعَهُ أَحَدٌ فِي
 عِبَادَتِهِ، لا نَبِيٌّ مُرْسَلٌ وَلا مَلَكٌ مُقَرَّبٌ ولا غيرهما
 وَالدَّلِيلُ قَوْلُهُ تَعَالَى: [﴿وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلاَ
 تَدْعُوا مَعَ اللَّهِ أَحَدًا﴾]{custom-style="in_text_Quran"} الجن: 18.
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The Second is that Allāh is not pleased with anyone being associated
 with Him in worship -- neither a prophet that was sent nor an angel that
 was brought close nor anyone else.
@@ -49,7 +49,7 @@ Al-Jinn: 18\].
 
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 الثَّالِثَةُ: أَنَّ مَنْ أَطَاعَ الرَّسُولَ، وَوَحَّدَ اللهَ لا يَجُوزُ
 لَهُ مُوَالاةُ مَنْ حَادَّ اللهَ وَرَسُولَهُ، وَلَوْ كَانَ أَقْرَبَ
 قَرِيبٍ؛ وَالدَّلِيلُ قَوْلُهُ تَعَالَى: [﴿لَا تَجِدُ قَوْمًا يُؤْمِنُونَ
@@ -62,7 +62,7 @@ Al-Jinn: 18\].
 اللَّهِ هُمُ الْمُفْلِحُونَ﴾]{custom-style="in_text_Quran"} المجادلة: 22.
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The third is that it is not permissible for the one who obeys the
 Messenger and singles Allāh out in worship, to take as allies those who
 oppose Allāh and His Messenger, not even if they are the closest of
@@ -82,7 +82,7 @@ Al-Mujaadilah: 22\].
 :::
 
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 اِعْلَمْ أَرْشَدَكَ اللهُ لِطَاعَتِهِ، أَنَّ الْحَنِيفِيَّةَ مِلَّةَ
 إِبْرَاهِيمَ: أَنْ تَعْبُدَ اللهَ وَحْدَهُ، مُخْلِصًا لَهُ الدِّينَ.
 وَبِذَلِكَ أَمَرَ اللهُ جَمِيعَ النَّاسِ، وَخَلَقَهُمْ لَهَا؛ كَمَا
@@ -100,14 +100,14 @@ to worship Me.\" \[Surah Az-Zaariyaat: 56\]. The meaning of \"to worship
 Me\" is \"to single Me out in worship\".
 
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَأَعْظَمُ مَا أَمَرَ اللهُ بِهِ التَّوْحيِدُ، وَهُوَ: إِفْرَادُ اللهِ
 بِالْعِبَادَةِ. وَأَعْظَمُ مَا نَهَى عَنْه الشِّركُ، وَهُوَ: دَعْوَةُ
 غَيْرِهِ مَعَهُ، وَالدَّلِيلُ قَوْلُهُ تَعَالَى: [﴿وَاعْبُدُواْ اللّهَ
 وَلاَ تُشْرِكُواْ بِهِ شَيْئًا﴾]{{custom-style="in_text_Quran"}} النساء: 35.
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The greatest thing that Allāh has commanded with is Tawheed, which is
 singling out Allāh in worship. And the greatest thing that Allāh has
 prohibited is Shirk, which is worshipping others along with Him, The

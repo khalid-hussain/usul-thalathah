@@ -1,33 +1,33 @@
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 فَإِذَا قِيلَ لَكَ: مَا الأُصُولُ الثَّلاثَةُ التِي يَجِبُ عَلَى
 الإِنْسَانِ مَعْرِفَتُهَا؟
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 So if it is said to you: \"What are the three principles that are
 obligatory upon every individual to know?\"
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 فَقُلْ: مَعْرِفَةُ الْعَبْدِ رَبَّهُ، وَدِينَهُ، وَنَبِيَّهُ مُحَمَّدًا
 صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 Then say: It is that the servant knows his Lord, his Religion and his
 Prophet Muhammad, may the peace and blessings of Allāh be on him.
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 **فَإِذَا قِيلَ لَكَ: مَنْ رَبُّكَ؟**
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 **So if it is said to you: \"Who is your Lord?\"**
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 فَقُلْ: رَبِّيَ اللهُ الَّذِي رَبَّانِي، وَرَبَّى جَمِيعَ الْعَالَمِينَ
 بِنِعمتهِ، وَهُوَ مَعْبُودِي لَيْسَ لِي مَعْبُودٌ سِوَاهُ؛ وَالدَّلِيلُ
 قَوْلُهُ تَعَالَى :
@@ -43,54 +43,54 @@ worship none besides Him. The proof is His The Most High, statement
 worlds)."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Faatihah: 1\]. Everything besides Allāh is an
 \'Aalam, and I am one of those \'Aalam (creation).
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 فَإِذَا قِيلَ لَكَ: بِمَ عَرَفْتَ رَبَّكَ؟
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 So if you were asked: \"How did you know your Lord?\"
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 فَقُلْ: بِآيَاتِهِ وَمَخْلُوقَاتِهِ، وَمِنْ آيَاتِهِ: اللَّيْلُ،
 وَالنَّهَارُ، وَالشَّمْسُ، وَالْقَمَرُ، وَمِنْ مَخْلُوقَاتِهِ
 السَّمَاوَاتُ السَّبْعُ وَمَنْ فِيهِنَّ وَالأَرَضُونَ السَّبْعُ وَمَنْ
 فِيهِنَّ، وَمَا بَيْنَهُمَا؛
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 Then say: through His signs and creations. And among His signs are the
 night and the day, and the sun and the moon. And among His creations are
 the seven heavens, and whoever is in them and the seven earths, and
 whoever is in them and whatever is between them.
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَالدَّلِيلُ قَوْلُهُ تَعَالَى: [﴿لَخَلْقُ السَّمَاوَاتِ وَالأَرْضِ
 أَكْبَرُ مِن خَلقِ النَّاسِ﴾]{custom-style="in_text_Quran"} \[غافر:57\]
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof is His The Most High, statement (which means): ["The creation
 of the heavens and earth is greater than the creation of mankind."]{custom-style="in_text_Quran_Translation"}
 \[Surah Ghaafir: 57\]
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَقَوْلُهُ تَعَالَى: [﴿وَمِنْ آيَاتِهِ اللَّيْلُ وَالنَّهَارُ
 وَالشَّمْسُ وَالْقَمَرُ لاَ تَسْجُدُوا لِلشَّمْسِ وَلاَ لِلْقَمَرِ
 وَاسْجُدُوا لِلَّهِ الَّذِي خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ
 تَعْبُدُونَ﴾]{custom-style="in_text_Quran"} \[فصلت: 37\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 And His The Most High, statement (which means): ["And from among His
 signs are the night and the day, the sun and the moon. Do not prostrate
 to the sun nor the moon, but prostrate to Allāh who created them, if it
 is He whom you truly worship."]{custom-style="in_text_Quran"} \[Surah Fussilat: 37\]
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَقَوْلُهُ تَعَالَى: [﴿إِنَّ رَبَّكُمُ اللّهُ الَّذِي خَلَقَ
 السَّمَاوَاتِ وَالأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى
 الْعَرْشِ يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ
@@ -99,7 +99,7 @@ is He whom you truly worship."]{custom-style="in_text_Quran"} \[Surah Fussilat: 
 54\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 And His The Most High, statement (which means): ["Verily, your Lord is
 Allāh, who created the heavens and the earth in six days, and then rose
 over the Throne. He brings the night as a cover over the day, which it
@@ -108,7 +108,7 @@ subjected to His Command. Surely, to Him belongs the Creation and the
 Command. Blessed is Allāh, Lord of the Worlds."]{custom-style="in_text_Quran_Translation"} \[Surah Al-A'raaf: 54\]
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَالرَّبُ هُوَ الْمَعْبُودُ، وَالدَّلِيلُ قَوْلُهُ تَعَالَى: [﴿يَا
 أَيُّهَا النَّاسُ اعْبُدُواْ رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ
 مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ ۞ الَّذِي جَعَلَ لَكُمُ الأَرْضَ
@@ -117,12 +117,12 @@ Command. Blessed is Allāh, Lord of the Worlds."]{custom-style="in_text_Quran_Tr
 أَندَادًا وَأَنتُمْ تَعْلَمُونَ﴾]{custom-style="in_text_Quran"} \[البقرة: 21، 22\].
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 قَالَ ابْنُ كَثِيرٍ رَحِمَهُ اللهُ تَعَالَى: «الخَالِقُ لِهَذِهِ
 الأَشْيَاءَ هُوَ الْمُسْتَحِقُّ لِلْعِبَادَةِ».
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The Rabb (Lord) is the One who must be worshipped. The proof is His The
 Most High, statement (which means): ["O mankind! Worship your Lord who
 created you and those before you, so that you may attain Taqwaa. The One
@@ -135,7 +135,7 @@ deserves to be worshipped\".
 :::
 
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَأَنْوَاعُ الْعِبَادَةِ الَّتِي أَمَرَ اللهُ بِهَا مِثْلُ: الإِسْلامِ،
 وَالإِيمَانِ، وَالإِحْسَانِ، وَمِنْهُ: الدُّعَاءُ، وَالْخَوْفُ،
 وَالرَّجَاءُ، وَالتَّوَكُّلُ، وَالرَّغْبَةُ، وَالرَّهْبَةُ،
@@ -145,7 +145,7 @@ deserves to be worshipped\".
 للهِ تَعَالَى.
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The different types of actions of worship that Allāh commanded us with,
 such as Islaam, Eemaan and Ihsaan. It also includes: Du'aa
 (Supplication), Khawf (Fear), Rajaa (Hope), Tawakkul (Reliance), Raghbah
@@ -159,7 +159,7 @@ that Allāh commanded -- all of these belong to Allāh, alone.
 :::
 
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَالدَّلِيلُ: قَوْلُهُ تَعَالَى: [﴿وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلاَ
 تَدْعُوا مَعَ اللَّهِ أَحَدًا﴾]{custom-style="in_text_Quran"} \[الجن: 18\]. فَمَنْ صَرَفَ مِنْهَا
 شَيْئًا لِغَيْرِ اللهِ؛ فَهُوَ مُشْرِكٌ كَافِرٌ؛ وَالدَّلِيلُ: قَوْلُهُ
@@ -168,7 +168,7 @@ that Allāh commanded -- all of these belong to Allāh, alone.
 الْكَافِرُونَ﴾ ]{custom-style="in_text_Quran"} \[المؤمنون: 117\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof is His, The Most High, statement \[which means\]: ["And verily
 the masaajid belong to Allāh, so do not call upon anyone along with
 Allāh".]{custom-style="in_text_Quran_Translation"} \[Surah Al-Jinn: 18\]. Therefore, whoever directs any of these
@@ -179,14 +179,14 @@ his reckoning is only with his Lord. Surely, the disbelievers will not
 be successful".]{custom-style="in_text_Quran_Translation"} \[Surah Al-Mu'minoon: 117\].
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَفِي الْحَدِيثِ: {custom-style="in_text_Hadith"}[الدُّعَاءُ مخ الْعِبَادَةِ] . وَالدَّلِيلُ: قَوْلُهُ
 تَعَالَى: [﴿وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
 يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ﴾.]{custom-style="in_text_Quran"}
 \[غافر: 60\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 In the hadeeth, \[it is reported\]: ["supplication is the core of
 worship\".]{custom-style="in_text_Hadith_Translation"} The proof is His The Most High, statement (which means):
 ["And your Lord said: 'Supplicate to Me, and I will respond to you.
@@ -194,35 +194,35 @@ Verily those who are too arrogant to worship Me will enter the Hellfire
 humbled."]{custom-style="in_text_Quran_Translation"} \[Surah Ghaafir: 60\]
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَدَلِيلُ الْخَوْفِ: قَوْلُهُ تَعَالَى: [﴿فَلاَ تَخَافُوهُمْ وَخَافُونِ
 إِن كُنتُم مُّؤْمِنِينَ﴾ ]{custom-style="in_text_Quran"}\[آل عمران: 175\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof for Khawf (Fear) is His The Most High, statement (which
 means): ["So do not fear them, but fear Me if you are believers."]{custom-style="in_text_Quran_Translation"} \[Surah Aali 'Imraan: 175\]
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَدَلِيلُ الرَّجَاءِ: قَوْلُهُ تَعَالَى: [﴿فَمَن كَانَ يَرْجُو لِقَاءَ
 رَبِّهِ فَلْيَعْمَلْ عَمَلاً صَالِحًا وَلاَ يُشْرِكْ بِعِبَادَةِ
 رَبِّهِ أَحَدًا﴾]{custom-style="in_text_Quran"} \[الكهف: 110\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof for Rajaa (Hope) is His The Most High, statement (which
 means): ["So whoever hopes for the meeting of his Lord, then let him
 perform righteous deeds, and not associate anyone in the worship of his
 Lord." ]{custom-style="in_text_Quran_Translation"}\[Surah Al-Kahf: 110\]
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَدَلِيلُ التَّوَكُلِ: قَوْلُهُ تَعَالَى: [﴿وَعَلَى اللّهِ
 فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ﴾]{custom-style="in_text_Quran"} \[المائدة: 23\]. وقوله: [﴿وَمَن
 يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ﴾ ]{custom-style="in_text_Quran"} \[الطلاق: 3\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof for Tawakkul (Reliance) is His The Most High, statement (which
 means): ["And rely upon Allāh alone if you are believers."]{custom-style="in_text_Quran_Translation"} \[Surah
 AlMaa'idah: 23\] And His The Most High, statement (which means): ["And
@@ -230,14 +230,14 @@ whoever relies upon Allāh, then He is sufficient for him."]{custom-style="in_te
 At-Talaaq: 3\]
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَدَلِيلُ الرَّغْبَةِ، وَالرَّهْبَةِ، وَالْخُشُوعِ: قَوْلُهُ
 تَعَالَى: [﴿إِنَّهُمْ كَانُوا يُسَارِعُونَ فِي الْخَيْرَاتِ
 وَيَدْعُونَنَا رَغَبًا وَرَهَبًا وَكَانُوا لَنَا خَاشِعِينَ﴾ ]{custom-style="in_text_Quran"} \[الأنبياء:
 90\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof for Raghbah (seeking the pleasure of Allāh with love and
 hope), Rahbah (fear that is accompanied by action), and Khushoo'
 (submissiveness accompanied by fear) is His The Most High, statement
@@ -248,66 +248,66 @@ submissive and fearful of Us."]{custom-style="in_text_Quran_Translation"} \[Sura
 :::
 
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَدَلِيلُ الْخَشْيَةِ: قَوْلُهُ تَعَالَى: [﴿فَلاَ تَخْشَوْهُمْ
 وَاخْشَوْنِ﴾]{custom-style="in_text_Quran"} الآية \[البقرة: 150\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof for Khashyah (fear that is coupled with knowledge) is His The
 Most High, statement (which means): ["So do not fear them, but fear
 Me."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Baqarah: 150\]
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَدَلِيلُ الإِنَابَةِ: قَوْلُهُ تَعَالَى: [﴿وَأَنِيبُوا إِلَى رَبِّكُمْ
 وَأَسْلِمُوا لَهُ﴾]{custom-style="in_text_Quran"} الآية \[الزمر: 54\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof for Inaabah (returning to Allāh) is His The Most High,
 statement (which means): ["And return to your Lord and submit to Him."]{custom-style="in_text_Quran_Translation"}
 \[Surah Az-Zumar: 54\]
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَدَلِيلُ الاسْتِعَانَةِ: قَوْلُهُ تَعَالَى: [﴿إِيَّاكَ نَعْبُدُ
 وإِيَّاكَ نَسْتَعِينُ﴾]{custom-style="in_text_Quran"} \[الفاتحة: 5\]. وَفِي الْحَدِيثِ: [وإِذَا
 اسْتَعَنْتَ فَاسْتَعِنْ بِاللهِ.]{custom-style="in_text_Hadith"}
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof for Isti'aanah (seeking help) is His The Most High, statement
 (which means): ["You alone do we worship and Your help alone do we
 seek."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Faatihah: 4\] And in the hadeeth: ["When you seek
 assistance then seek assistance from Allāh."]{custom-style="in_text_Hadith_Translation"}
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَدَلِيلُ الاسْتِعَاذَةِ: قَوْلُهُ تَعَالَى: [﴿قُلْ أَعُوذُ بِرَبِّ
 الْفَلَقِ﴾ ]{custom-style="in_text_Quran"} \[الفلق: 1\]. [ و﴿قُلْ أَعُوذُ بِرَبِّ النَّاسِ﴾ ]{custom-style="in_text_Quran"} \[الناس:
 1\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof for Isti'aazah (seeking refuge) is His The Most High,
 statement (which means): ["Say: I seek refuge in the Lord of the
 Daybreak."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Falaq: 1\] And ["Say: I seek refuge in the Lord
 of Mankind."]{custom-style="in_text_Quran_Translation"} \[Surah An-Naas: 1\]
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَدَلِيلُ الاسْتِغَاثَةِ: قَوْلُهُ تَعَالَى: ﴿إِذْ تَسْتَغِيثُونَ
 رَبَّكُمْ فَاسْتَجَابَ لَكُمْ\...﴾ الآية\[الأنفال: 9\].
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof for Istighaathah (seeking help when in distress) is His The
 Most High, statement (which means): ["And remember when you sought help
 from your Lord and He responded to you..."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Anfaal: 9\]
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 وَدَلِيلُ الذَّبْحِ: قَوْلُهُ تَعَالَى: [﴿قُلْ إِنَّ صَلاَتِي وَنُسُكِي
 وَمَحْيَايَ وَمَمَاتِي لِلّهِ رَبِّ الْعَالَمِينَ ۞ لاَ شَرِيكَ لَه
 وَبِذَلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ﴾ ]{custom-style="in_text_Quran"} \[الأنعام:
@@ -315,7 +315,7 @@ from your Lord and He responded to you..."]{custom-style="in_text_Quran_Translat
 اللهِ.]{custom-style="in_text_Hadith"}
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof for Zabh (offering sacrifices) is His The Most High, statement
 (which means): ["Say: Verily my prayer, my sacrifices, my life and my
 death are for Allāh, Lord of the Worlds. He has no partner. And with
@@ -324,12 +324,12 @@ Al-An'aam: 162-163\] And from the Sunnah: ["May Allāh curse the one who
 offers a sacrifice to other than Allāh."]{custom-style="in_text_Hadith_Translation"}
 :::
 
-:::{custom-style="Matan" dir="rtl" lang="ar"}
+:::{custom-style="Matn" dir="rtl" lang="ar"}
 ودليل النذر قوله تعالى: [﴿يُوْفُوْنَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا
 كَانَ شَرُّهُ مُسْتَطِيرًا﴾ ]{custom-style="in_text_Quran"} \[الإنسان: 7\]
 :::
 
-:::{custom-style="Matan_translation"}
+:::{custom-style="Matn Trans."}
 The proof for Nazr (taking vows) is His The Most High, statement (which
 means): ["They fulfill their vows and they fear a Day whose evil will be
 widespread."]{custom-style="in_text_Quran_Translation"} \[Surah Al-Insaan: 7\]
