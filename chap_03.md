@@ -87,7 +87,7 @@ of the heavens and earth is greater than the creation of mankind."]{custom-style
 And His The Most High, statement (which means): ["And from among His
 signs are the night and the day, the sun and the moon. Do not prostrate
 to the sun nor the moon, but prostrate to Allāh who created them, if it
-is He whom you truly worship."]{custom-style="in_text_Quran"} \[Surah Fussilat: 37\]
+is He whom you truly worship."]{custom-style="in_text_Quran_Translation"} \[Surah Fussilat: 37\]
 :::
 
 :::{custom-style="Matn" dir="rtl" lang="ar"}
